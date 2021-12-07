@@ -23,9 +23,9 @@
     - python
     - fluttr
   - I also speak fluent english and spanish !
-  
-  <p align = "center">
-    <img src="h1.gif" title="hover text">
+ 
+    <img src="h1.gif" title="hover text" align="center">
     </p>
     
-    **Thanks for reading and let's connect!**
+    
+
