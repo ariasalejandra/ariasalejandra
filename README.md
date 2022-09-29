@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="readme_header.jpg" title="hover text">
 
   **About Me**
   - my name is Alejandra Arias!
-  - im 17 and a senior in high school
-  - plan to major in computer science or cybersecurity(preferably both)
+  - im 18 and an undergrad at uiuc
+  - im makoring in information science with a minor in cs
   - prounouns: she/they
   
   **Socials!**
-  - discord: kaya#0099
+  - discord: kaya#2563
   - instagram: alejandra.arix
-  - non-profit instagram: elevate_tech
   
   
   **Languages**
@@ -19,12 +17,10 @@
     - Javascript
     - Html/css
   - currently trying to figure out
-    - swift
+    - kotlin
     - python
-    - fluttr
   - I also speak fluent english and spanish !
  
-    <img src="h1.gif" title="hover text" align="center">
     </p>
     
     
