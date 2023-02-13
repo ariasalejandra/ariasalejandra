@@ -4,7 +4,7 @@
   - my name is Alejandra Arias!
   - im 18 and an undergrad at uiuc
   - im majoring in information science with a minor in cs
-  - prounouns: she/they
+  - prounouns: she/her
   
   **Socials!**
   - discord: kaya#2563
@@ -13,12 +13,12 @@
   
   **Languages**
   - I have basic knowledge on the following:
-    - Java
-    - Javascript
-    - Html/css
-  - currently trying to figure out
+    - java
+    - javascript
+    - html/css
     - kotlin
-    - python
+  - currently trying to figure out
+    - c++
   - I also speak fluent english and spanish !
  
     </p>
