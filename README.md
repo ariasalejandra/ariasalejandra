@@ -19,6 +19,7 @@
     - kotlin
   - currently trying to figure out
     - c++
+    - rust
   - I also speak fluent english and spanish !
  
     </p>
