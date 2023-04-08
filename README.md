@@ -2,7 +2,7 @@
 
   **About Me**
   - my name is Alejandra Arias!
-  - im 18 and an undergrad at uiuc
+  - im 19 and an undergrad at uiuc
   - im majoring in information science with a minor in cs
   - prounouns: she/her
   
