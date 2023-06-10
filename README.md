@@ -1,6 +1,6 @@
 <h2> Hello, I'm Alejandra Arias! <img src="https://media.giphy.com/media/iRzfAcIAv6BSlEepoJ/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
-<p><em>Information Science major + Computer Science minor @ <a href="http://www.illinois.edu">University of Illinois Urbana Champaign</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
+<p><em>Information Science major + Computer Science minor @ <a href="http://www.illinois.edu">Illinois</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -16,8 +16,10 @@ const ariasalejandra = {
   futureGoals: "Work in Information Security and Privacy Research"
 }
 ```
+<img align='right' src="https://media.giphy.com/media/bLVTnQvgggksbDXs7S/giphy.gif" width="210">
 
 <h2> Github Stats <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50"></h2>
+
 
 ![ariasalejandra's Stats](https://github-readme-stats.vercel.app/api?username=ariasalejandra&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 </br></br>
