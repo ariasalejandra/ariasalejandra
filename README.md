@@ -1,28 +1,25 @@
-<p align="center">
+<h2> Hello, I'm Alejandra Arias! <img src="https://media.giphy.com/media/iRzfAcIAv6BSlEepoJ/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
+<p><em>Information Science major + Computer Science minor @ <a href="http://www.illinois.edu">University of Illinois Urbana Champaign</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
+</em></p>
 
-  **About Me**
-  - my name is Alejandra Arias!
-  - im 19 and an undergrad at uiuc
-  - im majoring in information science with a minor in cs
-  - prounouns: she/her
-  
-  **Socials!**
-  - discord: kaya#2563
-  - instagram: alejandra.arix
-  
-  
-  **Languages**
-  - I have basic knowledge on the following:
-    - java
-    - javascript
-    - html/css
-    - kotlin
-  - currently trying to figure out
-    - c++
-    - rust
-  - I also speak fluent english and spanish !
- 
-</p>
-</br></br>
-<h2> Some stats! </h2>
+
+[![Linkedin: ariasalejandra](https://img.shields.io/badge/-AlejandraArias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-arias-83462024b/)](https://www.linkedin.com/in/alejandra-arias-83462024b/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/ariasalejandra?label=follow&style=social)](https://github.com/ariasalejandra)
+
+```javascript
+const ariasalejandra = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Java],
+  learning: [ReactJS, Python, Rust, C++],
+  interests: ["cloud services / aws", "information security" "sql", "data science engineering"],
+  futureGoals: "Work in Information Security and Privacy Research"
+}
+```
+
+<h2> Github Stats <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50"></h2>
+
 ![ariasalejandra's Stats](https://github-readme-stats.vercel.app/api?username=ariasalejandra&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+</br></br>
+
+![ariasalejandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariasalejandra&theme=dracula&show_icons=true&hide_border=true&layout=compact)
