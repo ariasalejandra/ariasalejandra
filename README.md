@@ -25,4 +25,4 @@
 </p>
 </br></br>
 <h2> Some stats! </h2>
-![Ariasalejandra's github stats](https://github-readme-stats.vercel.app/apiusername=ariasalejandra&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![ariasalejandra's Stats](https://github-readme-stats.vercel.app/api?username=ariasalejandra&theme=dracula&show_icons=true&hide_border=true&count_private=true)
