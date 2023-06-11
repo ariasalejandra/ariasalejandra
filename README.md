@@ -16,12 +16,8 @@ const ariasalejandra = {
   futureGoals: "Work in Information Security and Privacy Research"
 }
 ```
-<img align='right' src="https://media.giphy.com/media/bLVTnQvgggksbDXs7S/giphy.gif" width="210">
 
 <h2> Github Stats <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50"></h2>
 
-
 ![ariasalejandra's Stats](https://github-readme-stats.vercel.app/api?username=ariasalejandra&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-</br></br>
-
 ![ariasalejandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariasalejandra&theme=dracula&show_icons=true&hide_border=true&layout=compact)
