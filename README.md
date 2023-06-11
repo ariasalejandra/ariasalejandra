@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: ariasalejandra](https://img.shields.io/badge/-AlejandraArias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-arias-83462024b/)](https://www.linkedin.com/in/alejandra-arias-83462024b/)
+[![Linkedin: ariasalejandra](https://img.shields.io/badge/-AlejandraArias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-arias-83462024b/)](https://www.linkedin.com/in/aalejandra/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/ariasalejandra?label=follow&style=social)](https://github.com/ariasalejandra)
 
 ```javascript
