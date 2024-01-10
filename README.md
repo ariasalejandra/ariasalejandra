@@ -1,6 +1,6 @@
 <h2> Hello, I'm Alejandra Arias! <img src="https://media.giphy.com/media/iRzfAcIAv6BSlEepoJ/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
-<p><em>Information Science major + Computer Science minor @ <a href="http://www.illinois.edu">Illinois</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
+<p><em>Information Science major + Data Science + Computer Science minor @ <a href="http://www.illinois.edu">Illinois</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -10,9 +10,9 @@
 ```javascript
 const ariasalejandra = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Java],
-  learning: [ReactJS, Python, Rust, C++],
-  interests: ["cloud services / aws", "information security" "sql", "data science engineering"],
+  tehcnical_skills: [Javascript, HTML, CSS, Java, Python],
+  learning: [DevOps, ReactJS, Rust, C++],
+  interests: ["cloud / aws", "information security" "sql", "data science engineering"],
   futureGoals: "Work in Information Security and Privacy Research"
 }
 ```
