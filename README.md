@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
 <p><em>Information Science major + Data Science + Computer Science minor @ <a href="http://www.illinois.edu">Illinois</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
 </em></p>
-
+<p><em>Incoming Cybersercurity Intern @ Cat Digital</em></p>
 
 [![Linkedin: ariasalejandra](https://img.shields.io/badge/-AlejandraArias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-arias-83462024b/)](https://www.linkedin.com/in/aalejandra/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/ariasalejandra?label=follow&style=social)](https://github.com/ariasalejandra)
