@@ -2,6 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
 <p><em>Information Science major + Data Science + Computer Science minor @ <a href="http://www.illinois.edu">Illinois</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
 </em></p>
+<p><em>incoming Enterprise Information Security Architect Intern @ <a href="https://www.viatris.com/en">Viatris</a> </em></p>
 <p><em>prev Risk & Compliance Intern @ <a href="https://www.caterpillar.com/">Caterpillar</a> </em></p>
 <p><em>prev Cybersecurity Tech Fellow @ <a href="https://www.codepath.org/">CodePath</a> </em></p>
 
