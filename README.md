@@ -1,6 +1,6 @@
 <h2> Hello, I'm Alejandra Arias! <img src="https://media.giphy.com/media/iRzfAcIAv6BSlEepoJ/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
-<p><em>Information Science major + Data Science + Computer Science minor @ <a href="http://www.illinois.edu">Illinois</a><img src="https://media.giphy.com/media/26ZWFntmx610ivEuD3/giphy.gif" width="30"> 
+<p><em>Information Science & Data Science major + Computer Science minor @ <a href="http://www.illinois.edu">Illinois</a><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF4cGJjc3IzMWFkMHB3ZDNyN2NtcmIzeHdoNDZjam5yb3QwYTAzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kcKpORRzy95ofrqAEp/giphy.gif" width="30"> 
 </em></p>
 <p><em>Information Security Architect Intern @ <a href="https://www.viatris.com/en">Viatris</a> </em></p>
 <p><em>prev Risk & Compliance Intern @ <a href="https://www.caterpillar.com/">Caterpillar</a> </em></p>
